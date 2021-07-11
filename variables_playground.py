@@ -43,16 +43,18 @@ run5_dist = "5000"
 # print(run5_dist + 3)
 print(int(run5_dist) + 3)
 
-user1 = 3
-user2 = 9
-print(user1 + user2)
+
+#Exercise 3
 
 dist1 = 10
 print(dist1 * 1000)
 print(dist1 * 100000)
 
+#Exercise 4
 name1 = "Willam"
 height = 192
 message4 = f"{name1} is {height} cms tall"
 print(message4)
+
+
 
